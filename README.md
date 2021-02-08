@@ -41,5 +41,5 @@ bioresource](literature/1-s2.0-S0198885917300150-main.pdf) - Oxford, 2017
 
 ## TODO
 - [ ] GEL research project proposal
-- [ ] look into missing 7,000 participant - platekey matches
+- [x] look into missing 7,000 participant - platekey matches
 - [ ] 
